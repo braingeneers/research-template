@@ -1,1 +1,1 @@
-# research-template
+# Research Template
