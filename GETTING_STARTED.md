@@ -101,7 +101,7 @@ Once you have published your work and obtained a DOI, you can add your DOI to th
 
 GitHub allows you to add a CITATION.cff file to your repository to provide citation information for your work.
 
-1. Define the CITATION Information
+1. Define the Citation Information
 
 The CITATION.cff file should include the citation details for your work. Here's an example CITATION.cff file with explanations:
 
