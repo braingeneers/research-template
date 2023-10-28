@@ -101,7 +101,7 @@ Once you have published your work and obtained a DOI, you can add your DOI to th
 
 GitHub allows you to add a CITATION.cff file to your repository to provide citation information for your work.
 
-### 1. Define the CITATION Information
+1. Define the CITATION Information
 
 The CITATION.cff file should include the citation details for your work. Here's an example CITATION.cff file with explanations:
 
@@ -128,15 +128,15 @@ url: "https://github.com/yourusername/reponame" # URL to your GitHub repository
 - **date-released**: The release date of your software.
 - **url**: URL to your GitHub repository.
 
-### 2. Save and Commit
+2. Save and Commit
 
 Save the changes to your CITATION.cff file and commit the changes to your GitHub repository.
 
-### 3. Verify the Citation Information
+3. Verify the Citation Information
 
 Double-check your CITATION.cff file for accuracy. Ensure that all the information, such as the DOI and URLs, is correct.
 
-### 4. Use the Citation Information
+4. Use the Citation Information
 
 Once you've updated your CITATION.cff file, others can use the citation information provided in your GitHub repository. It will be accessible through the "Cite this repository" link on your repository's landing page.
 
