@@ -1,0 +1,26 @@
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[project]
+name = "project_name"
+version = "1.0.0"
+authors = [
+  { name="Braingeneers", email="lblauvel@ucsc.edu" },
+  { name="UW SSEC", email="ssec@uw.edu" },
+]
+description = "Add a brief project description here"
+readme = "README.md"
+requires-python = ">=3.10"
+license = {file = "LICENSE"}
+keywords = ["Braingeneers", "Example Topic"]
+
+[project.urls]
+Homepage = "https://braingeneers.ucsc.edu"
+Documentation = ""
+Repository = "https://github.com/uw-ssec/human_hippocampus.git"
+Changelog = ""
+Issues = "https://github.com/uw-ssec/human_hippocampus/issues"
+
+[tool.hatch.build]
+sources = ["src"]
